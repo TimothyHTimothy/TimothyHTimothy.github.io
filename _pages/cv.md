@@ -51,8 +51,8 @@ To see my full research & internship experience, please refer to my [Full CV](ti
 
 
   
-Skills
-======
+# Skills
+<hr style="width:100%;height:3px;background-color:#333;">
 * Coding (for the following languages)
   * Python 3 (most frequenly used)
   * C/C++, CUDA (for running conventional algorithms)
@@ -63,15 +63,15 @@ Skills
   * MarkDown (Typora)
 * OS-related skills
 
-Publications
-======
+# Publications
+<hr style="width:100%;height:3px;background-color:#333;">
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
-Service and leadership
-======
-* Former Leader/Captain of Peking University Orienteering Team
+# Service and leadership
+<hr style="width:100%;height:3px;background-color:#333;">
+* Former Leader/Captain of Peking University Orienteering Team, won Championship in Beijing Games
 * Former Vice President of Peking University Orienteering Association
 * Former Leader of Equipments&Technologies Team of College Radio Station
