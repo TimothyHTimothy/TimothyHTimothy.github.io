@@ -57,7 +57,7 @@ To view my previous and ongoing research projects, please refer to [Publications
 # Contact
 <hr style="width:100%;height:3px;background-color:#333;">
 If you are interested in my experience, please discuss with me by email. I will reply ASAP.<br>
-Email: [realtimothyhwu@gmail.com](realtimothyhwu@gmail.com)<br>
+Email: [realtimothyhwu@gmail.com](realtimothyhwu@gmail.com) 
 
 # Acknowledgements
 <hr style="width:100%;height:3px;background-color:#333;">
