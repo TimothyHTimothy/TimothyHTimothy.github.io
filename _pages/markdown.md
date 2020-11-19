@@ -15,3 +15,4 @@ To view about me, please refer to the list:
 - Innovative Ideas: [Blog Post](timothyhtimothy.github.io/year-archive/)
 
 Please feel free to contact me if you would like to know me more.
+The ways to contact me are listed in the left, and I will reply incoming email ASAP.
