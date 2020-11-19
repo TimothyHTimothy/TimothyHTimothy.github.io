@@ -21,6 +21,20 @@ I am now working as an research assistant under the supervision of Prof. [Ming-H
 
 To view my previous and ongoing research projects, please refer to [Publications and Projects](https://timothyhtimothy.github.io/project).
 
+# Publications
+
+<table style="font-size:18px;border:none">
+  <tr>
+    <td width='20%' align="center" style="border:none">
+      <img src="../images/ssgnet.png">
+    </td>
+    <td style="border:none;padding-left:40px">
+     <b> Stereo Image Super Resolution via StereoScopic Guidance Network
+     <b> Haoning Wu <b>, Dejia Xu, Yu Han, in sumbission to CVPR2021
+    </td>
+  </tr>
+</table>
+
 # Experiences
 
 <hr style="width:100%;height:3px;background-color:#333;">
