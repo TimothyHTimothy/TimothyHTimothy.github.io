@@ -24,7 +24,7 @@ To view my previous and ongoing research projects, please refer to [Publications
 <table style="font-size:18px;border:none">
   <tr>
     <td width='20%' align="center" style="border:none">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/ucm.png">
+      <img src="../images/ucm.png">
     </td>
     <td style="border:none;padding-left:40px">
      <b>University of California, Merced, United States</b><br>
@@ -43,7 +43,7 @@ To view my previous and ongoing research projects, please refer to [Publications
   </tr>
   <tr height=200px>
     <td width='20%' align="center" style="border:none">
-      <img src="../images/pku.png">
+      <img src="../images/pku.jpg">
     </td>
     <td style="border:none;padding-left:40px">
      <b>Peking University, Bejing, China </b><br>
