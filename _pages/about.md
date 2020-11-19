@@ -26,7 +26,7 @@ To view my previous and ongoing research projects, please refer to [Publications
 <table style="font-size:18px;border:none">
   <tr>
     <td width='20%' align="center" style="border:none">
-      <img src="../images/ssgnet.png">
+      <img src="../ssgnet.png">
     </td>
     <td style="border:none;padding-left:40px">
       <b> Stereo Image Super Resolution via StereoScopic Guidance Network </b><br>
