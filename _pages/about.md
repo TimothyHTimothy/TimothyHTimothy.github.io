@@ -10,6 +10,9 @@ redirect_from:
 
 # About Me
 
+<hr style="width:100%;height:3px;background-color:#333;">
+
+
 I am a senior undergraduate student from School of Eletronic Engineering and Computer Science in **Peking University** with a major in Computer Science, Department of Machine Intelligence.
 
 My research interest lie predominately in **Computer Vision, Machine Learning and Artificial Intelligence**. At present, I have been conducting researches on **Computational Photography**, including Image Restoration and Enhancement, Image Enhancing and Matting, analysis on Generative Models and Realistic Image Quality Assessments.
