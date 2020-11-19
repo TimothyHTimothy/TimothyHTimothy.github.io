@@ -29,8 +29,8 @@ To view my previous and ongoing research projects, please refer to [Publications
       <img src="../images/ssgnet.png">
     </td>
     <td style="border:none;padding-left:40px">
-     <b> Stereo Image Super Resolution via StereoScopic Guidance Network
-     <b> Haoning Wu <b>, Dejia Xu, Yu Han, in sumbission to CVPR2021
+     <b> Stereo Image Super Resolution via StereoScopic Guidance Network </b?<br>
+       <b> Haoning Wu <b>, Dejia Xu, Yu Han, in submission to <i>CVPR2021</i>.
     </td>
   </tr>
 </table>
