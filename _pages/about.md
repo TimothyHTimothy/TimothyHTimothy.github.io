@@ -34,7 +34,7 @@ To view my previous and ongoing research projects, please refer to [Publications
   </tr>
   <tr height=200px>
     <td width='20%' align="center" style="border:none">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/megvii.png">
+      <img src="../images/megvii.png">
     </td>
     <td style="border:none;padding-left:40px">
      <b> Megvii Incorporated, Bejing, China </b><br>
@@ -43,7 +43,7 @@ To view my previous and ongoing research projects, please refer to [Publications
   </tr>
   <tr height=200px>
     <td width='20%' align="center" style="border:none">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/pku.png">
+      <img src="../images/pku.png">
     </td>
     <td style="border:none;padding-left:40px">
      <b>Peking University, Bejing, China </b><br>
