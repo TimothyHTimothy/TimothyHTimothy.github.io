@@ -19,7 +19,7 @@ My research interest lie predominately in **Computer Vision, Machine Learning an
 
 I am now working as an research assistant under the supervision of Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/) *et al.* for discovering Image Generative and Reconstructive models. I am also a Algorithm Researcher (Intern) of Research Group, [Megvii Incorporated](https://megvii.com/) for image enhancement research programs. Since Summer 2019, I have been affliated with *[Visual Inference and Evaluation](https://vie.group/)* Group in Peking University as a research assistant advised by Asso. Prof. Tingting Jiang.
 
-To view my previous and ongoing research projects, please refer to [Publications and Projects](https://timothyhtimothy.github.io/project).
+To view my previous and ongoing research projects, please refer to my [Publications and Course Projects](https://timothyhtimothy.github.io/projects).
 
 # Publications
 <hr style="width:100%;height:3px;background-color:#333;">
