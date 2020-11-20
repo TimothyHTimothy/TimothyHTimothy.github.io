@@ -6,13 +6,13 @@ main:
     url: /cv/
     
   - title: "Project"
-    url: /project/  
+    url: /projects/  
     
   - title: "Publications"
     url: /publications/
 
         
-  - title: "Blog Posts"
+  - title: "Blog Posts (beta)"
     url: /year-archive/
 
     
