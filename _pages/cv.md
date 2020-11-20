@@ -35,7 +35,7 @@ To see my full research & internship experience, please refer to my [Full CV](ti
   
 # Selected Course Project at PKU
 <hr style="width:100%;height:3px;background-color:#333;">
-- [Details](timothyhtimothy.io/project)
+- [Details](timothyhtimothy.io/projects)
 * Spring 2020: **Shared Features Learning for Semantic Favorable Super Resolution** (for CV&DL course)
   * Advised by Dr. Yadong Mu, Wangxuan Institute of Computational Technologies, PKU
   * Combined High Level representation features to generate semantic favorable super resolution results. 
