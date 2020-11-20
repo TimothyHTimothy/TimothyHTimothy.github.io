@@ -1,3 +1,11 @@
+---
+title: 'Assignment 2'
+date: 2020-11-20
+permalink: /posts/2020/11/as2/
+tags:
+  - Visualization
+---
+
 Auto-balanced Force-Directed Visualization
 ------------------------------------------
 
